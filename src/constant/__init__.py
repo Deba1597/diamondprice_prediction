@@ -1,1 +1,1 @@
-artifact_folder = 'artifacts'
+
